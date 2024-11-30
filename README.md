@@ -21,3 +21,5 @@ STRIPE_KEY=`stripe secret key`
 PRODUCT_PER_PAGE=`8 or any`
 
 _fill each filed with your info respectively_
+
+# Live Project Link : e-commercemern.vercel.app
