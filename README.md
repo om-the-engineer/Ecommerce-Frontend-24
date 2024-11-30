@@ -22,4 +22,5 @@ PRODUCT_PER_PAGE=`8 or any`
 
 _fill each filed with your info respectively_
 
-# Live Project Link : e-commercemern.vercel.app
+# Live Project Link : [E-Commerce MERN Stack](https://e-commercemern.vercel.app)
+
