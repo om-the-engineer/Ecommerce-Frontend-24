@@ -1,5 +1,5 @@
 .home {
-  padding: 2rem 5%;
+  padding: 0.5rem 5%;
   display: flex;
   flex-direction: column;
   // min-height: calc(100vh - 4rem);
@@ -18,8 +18,8 @@
   > div {
     @include flex;
     align-items: stretch;
-    margin: 2rem 0;
-    gap: 5rem;
+    margin: 1rem 0;
+    gap: 10rem;
 
     aside {
       width: 10%;
@@ -56,7 +56,7 @@
 
   > h1 {
     @include heading(1px);
-    margin-top: 3rem;
+    margin-top: 0.5rem;
     @include flex(row, space-between, center);
   }
 
@@ -65,7 +65,7 @@
   }
 
   > main {
-    margin: 2rem 0;
+    margin: 0.5rem 0;
     width: 100%;
     display: flex;
     gap: 1rem;
